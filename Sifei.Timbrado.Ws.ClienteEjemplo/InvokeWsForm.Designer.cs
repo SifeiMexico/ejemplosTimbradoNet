@@ -1,4 +1,4 @@
-﻿namespace Sifei.Timbrado.Ws.ClienteEjemplo {
+namespace Sifei.Timbrado.Ws.ClienteEjemplo {
     partial class InvokeWsForm {
         /// <summary>
         /// Required designer variable.
